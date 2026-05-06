@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "id": "01_a_question",
+    "label": "阿？？",
+    "file": "stickers/01_a_question.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/01_a_question.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/01_a_question.png",
+    "keywords": [
+      "疑问",
+      "啊",
+      "什么",
+      "不懂",
+      "问号",
+      "迷惑"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "02_speechless",
+    "label": "无语",
+    "file": "stickers/02_speechless.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/02_speechless.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/02_speechless.png",
+    "keywords": [
+      "无语",
+      "沉默",
+      "不知道说什么",
+      "离谱",
+      "尴尬"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "03_so_annoyed",
+    "label": "烦死了！！",
+    "file": "stickers/03_so_annoyed.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/03_so_annoyed.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/03_so_annoyed.png",
+    "keywords": [
+      "烦",
+      "烦死了",
+      "抓狂",
+      "生气",
+      "爆炸",
+      "不爽"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "04_you_better_be_ok",
+    "label": "你最好没事",
+    "file": "stickers/04_you_better_be_ok.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/04_you_better_be_ok.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/04_you_better_be_ok.png",
+    "keywords": [
+      "你最好没事",
+      "盯",
+      "危险",
+      "警告",
+      "怀疑"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "05_dont_want_work",
+    "label": "不想干活",
+    "file": "stickers/05_dont_want_work.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/05_dont_want_work.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/05_dont_want_work.png",
+    "keywords": [
+      "不想工作",
+      "不想干活",
+      "摆烂",
+      "累",
+      "上班"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "06_fine",
+    "label": "行吧",
+    "file": "stickers/06_fine.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/06_fine.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/06_fine.png",
+    "keywords": [
+      "行吧",
+      "好吧",
+      "算了",
+      "可以",
+      "随便"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "07_i_surrender",
+    "label": "我投降",
+    "file": "stickers/07_i_surrender.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/07_i_surrender.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/07_i_surrender.png",
+    "keywords": [
+      "投降",
+      "认输",
+      "服了",
+      "求饶",
+      "放过我"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "08_stop_arguing",
+    "label": "别吵了",
+    "file": "stickers/08_stop_arguing.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/08_stop_arguing.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/08_stop_arguing.png",
+    "keywords": [
+      "别吵",
+      "停",
+      "安静",
+      "别争",
+      "冷静"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "09_say_again",
+    "label": "你再说一遍？",
+    "file": "stickers/09_say_again.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/09_say_again.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/09_say_again.png",
+    "keywords": [
+      "再说一遍",
+      "你说什么",
+      "质问",
+      "盯着你"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "10_read",
+    "label": "学习中",
+    "file": "stickers/10_read.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/10_read.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/10_read.png",
+    "keywords": [
+      "看书",
+      "学习",
+      "阅读",
+      "认真",
+      "研究"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "11_broken_defense",
+    "label": "破防了",
+    "file": "stickers/11_broken_defense.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/11_broken_defense.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/11_broken_defense.png",
+    "keywords": [
+      "破防",
+      "哭",
+      "绷不住",
+      "心碎",
+      "委屈"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "12_collapsing",
+    "label": "倒下了",
+    "file": "stickers/12_collapsing.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/12_collapsing.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/12_collapsing.png",
+    "keywords": [
+      "倒下",
+      "累瘫",
+      "崩溃",
+      "没电",
+      "晕"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "13_you_are_right",
+    "label": "你说得对",
+    "file": "stickers/13_you_are_right.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/13_you_are_right.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/13_you_are_right.png",
+    "keywords": [
+      "你说得对",
+      "赞同",
+      "认可",
+      "点头",
+      "好"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "14_watch_your_performance",
+    "label": "看你表现",
+    "file": "stickers/14_watch_your_performance.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/14_watch_your_performance.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/14_watch_your_performance.png",
+    "keywords": [
+      "看你表现",
+      "观察",
+      "期待",
+      "审视",
+      "盯"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "15_sleepy",
+    "label": "困了",
+    "file": "stickers/15_sleepy.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/15_sleepy.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/15_sleepy.png",
+    "keywords": [
+      "困",
+      "睡觉",
+      "晚安",
+      "犯困",
+      "休息"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  },
+  {
+    "id": "16_back_off",
+    "label": "退下！！",
+    "file": "stickers/16_back_off.png",
+    "local_path": "/root/dan-mempalace/stickers/dan-reactions/16_back_off.png",
+    "url": "https://raw.githubusercontent.com/JoywDan/dan-reaction-stickers/main/stickers/16_back_off.png",
+    "keywords": [
+      "退下",
+      "走开",
+      "拒绝",
+      "别过来",
+      "停下"
+    ],
+    "type": "reaction_sticker",
+    "format": "png",
+    "size": "512x512"
+  }
+]

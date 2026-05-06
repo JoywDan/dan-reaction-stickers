@@ -1,10 +1,8 @@
 # dan-reaction-stickers
 
-Dan reaction sticker pack.
+Dan reaction sticker pack: 16 transparent PNG stickers plus a metadata index.
 
-This repository is intended to store 16 transparent PNG stickers and a `stickers.json` metadata index.
-
-Expected layout:
+## Layout
 
 ```text
 stickers/
@@ -16,4 +14,22 @@ stickers.json
 README.md
 ```
 
-The actual sticker PNG files are generated from the local v7 sticker pack and should not include private conversation logs or credentials.
+## Metadata
+
+`stickers.json` includes:
+
+- `id`
+- `label`
+- `file`
+- `local_path`
+- `url`
+- `keywords`
+- `type`
+- `format`
+- `size`
+
+The `url` fields point to GitHub raw URLs, and `local_path` points to the Dan VPS sticker drawer.
+
+## Privacy
+
+This repository contains sticker image assets only. Do not commit private chat logs, credentials, OAuth files, prompts, or memory palace data.
